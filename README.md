@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I have a deep passion for software engineering, rooted in the fulfillment of making someone's day better. Every line of code we write helps another person do more. Whether it's making an API faster, a user experience more delightful, or enabling an app to be accessible, we are adding positivity to the world. That joy is why I love getting up every morning to write code and support everyone around me.
+
 <!--
 **JasonMore/JasonMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
